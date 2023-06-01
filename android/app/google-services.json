@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "739678158127",
+    "project_id": "flutter-ecommerce-app-f762a",
+    "storage_bucket": "flutter-ecommerce-app-f762a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739678158127:android:9584e9b0e93051988bb5da",
+        "android_client_info": {
+          "package_name": "com.example.semesterproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739678158127-9fg9kh1hio9roi360r064n8gmriamefc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrD8iTb3hmZVACPS0Ytpi7R9OpfB4Yns0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739678158127-9fg9kh1hio9roi360r064n8gmriamefc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "739678158127-7re9lfo4qqqel6lu0fpruoosi54m47d1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.semesterproject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739678158127:android:d822828c55cc1f1b8bb5da",
+        "android_client_info": {
+          "package_name": "com.example.semesterprojectadminpanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739678158127-9fg9kh1hio9roi360r064n8gmriamefc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrD8iTb3hmZVACPS0Ytpi7R9OpfB4Yns0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739678158127-9fg9kh1hio9roi360r064n8gmriamefc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "739678158127-7re9lfo4qqqel6lu0fpruoosi54m47d1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.semesterproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
